@@ -1,5 +1,5 @@
 ### Hi guys, meu nome é Jônatas! 😊
-<p>Comecei o curso de Desenvolvimento de Sistemas na Etec Professor Horácio Augusto da Silveira este ano (2025).</p>
+<p>Comecei o curso de Desenvolvimento de Sistemas na Etec Professor Horácio Augusto da Silveira este ano (2025), já estou no segundo módulo.</p>
 <p>Minhas redes sociais:</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonatasolixd/)
