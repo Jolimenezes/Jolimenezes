@@ -11,7 +11,7 @@
 <img align="center" src="https://img.shields.io/badge/HTML-ffae00"> <img align="center" src="https://img.shields.io/badge/Java-eD8b00"> <br>
 <img align="center" src="https://img.shields.io/badge/CSS-1919e6"> <img align="center" src="https://img.shields.io/badge/SQL-00ff00">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jolimenezes&layout=compact&theme=shades-of-purple&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jolimenezes&layout=compact&theme=tokyonight&locale=pt-br)
 
 ### Programar tem sido divertido 🤠
 
