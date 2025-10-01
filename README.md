@@ -7,9 +7,9 @@
 
 ## Tecnologias que estou estudando:
 
-<img align="center" src="https://img.shields.io/badge/JavaScript-fde910"> <img align="center" src="https://img.shields.io/badge/C Sharp-9179e4"> <br>
-<img align="center" src="https://img.shields.io/badge/HTML-ffae00"> <img align="center" src="https://img.shields.io/badge/Java-eD8b00"> <br>
-<img align="center" src="https://img.shields.io/badge/CSS-1919e6"> <img align="center" src="https://img.shields.io/badge/SQL-00ff00">
+<img align="center" src="https://img.shields.io/badge/JavaScript-fde910"> <br> <img align="center" src="https://img.shields.io/badge/C Sharp-9179e4"> <br>
+<img align="center" src="https://img.shields.io/badge/HTML-ffae00"> <br> <img align="center" src="https://img.shields.io/badge/Java-eD8b00"> <br>
+<img align="center" src="https://img.shields.io/badge/CSS-1919e6"> <br <img align="center" src="https://img.shields.io/badge/SQL-00ff00">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jolimenezes&layout=compact&theme=tokyonight&locale=pt-br)
 
